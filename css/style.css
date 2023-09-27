@@ -144,7 +144,7 @@ li{
     justify-content: center;
     align-items: center;
     padding: 50px 0;
-    background-color: rgb(218, 218, 218);
+    background-color: #F6F6F6;
 }
 .third-flex-main{
     min-height: 400px;
@@ -211,7 +211,7 @@ li{
     margin: 70px auto 0 auto;
     text-align: center;
     width: 80%;
-    background-color: rgb(218, 218, 218);;
+    background-color: #F6F6F6;;
 }
 .last.title{
     
@@ -228,7 +228,7 @@ li{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:rgb(218, 218, 218);
+    background-color:#F6F6F6;
     min-height: 900px
     
     
@@ -396,5 +396,5 @@ footer > p{
     color: white;
 }
 main{
-    background-color: rgb(218, 218, 218);;
+    background-color: #F6F6F6;
 }
